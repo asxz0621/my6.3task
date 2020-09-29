@@ -1,0 +1,31 @@
+{
+  "name": "Task4.1P",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines":{
+    "node":"v12.18.3"
+  },
+  "dependencies": {
+    "alert": "^5.0.4",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "https": "^1.0.0",
+    "mongoose": "^5.10.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth": "^2.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "path": "^0.12.7",
+    "sendcloud": "^1.6.3",
+    "validator": "^13.1.1"
+  }
+}
